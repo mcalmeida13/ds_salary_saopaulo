@@ -2,8 +2,11 @@
 I first start understanding a model developed by Ken Jee and then I apply to São Paulo, Brazil.
 ## References
 **Ken Jee's channel**:https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+
 **Model Reference:** https://github.com/PlayingNumbers/ds_salary_proj
+
 **Web Scrapper (code):** https://github.com/arapfaik/scraping-glassdoor-selenium
+
 **Web Scrapper (article):** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 
 # Project Steps
